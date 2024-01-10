@@ -25,7 +25,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pal-kamlesh&show_icons=true&locale=en" alt="pal-kamlesh" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pal-kamlesh" alt="pal-kamlesh" />
+  
+</p>
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pal-kamlesh" alt="pal-kamlesh" />
 </p>
 
 
