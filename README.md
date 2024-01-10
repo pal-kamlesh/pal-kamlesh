@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kamlesh Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pal-kamlesh&label=Profile%20views&color=0e75b6&style=flat" alt="pal-kamlesh" /> </p>
+
+- 🔭 I’m currently working on **My blog website**
 
 - 🌱 I’m currently learning **React**
 
@@ -13,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@palkamlesh54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@palkamlesh54" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamlesh-pal-08688a203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamlesh-pal-08688a203" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kamleshiit5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamleshiit5" height="30" width="40" /></a>
 </p>
