@@ -5,11 +5,10 @@
 
 - 🔭 I’m currently working on **My blog website**
 
-- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://pal-kamlesh.netlify.app/](https://pal-kamlesh.netlify.app/)
 
-- 💬 Ask me about **Javascript, React, mongodb, Node**
+- 💬 Ask me about **Javascript, React, mongodb, Node, Linux,**
 
 - 📫 How to reach me **kamleshiit5@gmail.com**
 
